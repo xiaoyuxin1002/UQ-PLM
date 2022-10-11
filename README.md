@@ -1,6 +1,6 @@
 # UQ-PLM
 
-Code for <a href="">Uncertainty Quantification with Pre-trained Language Models: An Empirical Analysis</a> (EMNLP 2022 Findings).
+Code for <a href="https://arxiv.org/abs/2210.04714">Uncertainty Quantification with Pre-trained Language Models: An Empirical Analysis</a> (EMNLP 2022 Findings).
 
 ## Requirements
 
@@ -8,7 +8,6 @@ Code for <a href="">Uncertainty Quantification with Pre-trained Language Models:
 PyTorch = 1.10.1
 Bayesian-Torch = 0.1
 HuggingFace Transformers = 4.11.1
-
 ```
 
 ## Data
